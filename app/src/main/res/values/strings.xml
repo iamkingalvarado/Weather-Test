@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="feat_weather_city_placeholder">Enter a city name...</string>
+</resources>
